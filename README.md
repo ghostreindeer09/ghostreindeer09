@@ -63,6 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/hand-gesture-game-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=hand-gesture-game-control&theme=tokyonight" /></a>
+  <a href="https://github.com/ghostreindeer09/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=leetcode&theme=tokyonight" /></a>
 </p>
 
 ---
