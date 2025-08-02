@@ -1,76 +1,82 @@
-### 👋 Hi there, I'm Rishit Sharma!
+<h1 align="center">Hey there 👋, I'm Rishit Sharma</h1>
+<h3 align="center">Cybersecurity Enthusiast | Full Stack MERN Developer | Tech Explorer</h3>
 
-I’m a tech enthusiast, full-stack developer, and cybersecurity learner passionate about building real-world applications and solving digital-age problems.
-
----
-
-### 💻 About Me
-
-- 🎓 Currently pursuing B.Tech in Cyber Security at Sreenidhi Institute of Science and Technology  
-- 🧠 Learning and building with the **MERN Stack**  
-- 🛡️ Completed a virtual internship with **Palo Alto Networks** focused on **Cyber Security**
-- 🧪 Exploring areas like Vulnerability Assessment, Anomaly Detection, and Rootkit Analysis  
-- 🛠️ I enjoy creating innovative tools and apps, from gesture-controlled games to intelligent security systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00BFFF&center=true&vCenter=true&lines=B.Tech+Cyber+Security+Student;Building+Secure+Apps;VAPT+and+Ethical+Hacking;Exploring+AI+and+ML" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔧 Tech Stack
+## 👨‍💻 About Me
 
-**Languages**  
-`C++` `Python` `JavaScript` `SQL` `HTML` `CSS`
-
-**Frameworks & Libraries**  
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Postman` `VS Code` `Metasploit` `Burp Suite` `Nessus` `Nmap`
+- 🎓 **B.Tech Cyber Security student** passionate about building secure, scalable apps.  
+- 🛠 Skilled in **VAPT, Ethical Hacking, and MERN Stack Development**.  
+- 🚀 Built projects like **PayTM Clone**, **EcoMove**, and **Travel Buddy App**.  
+- 🏆 Hackathon participant — *HackWave* & *Hash-It-Out*.  
+- 💼 Completed **Virtual Internship @ Palo Alto Networks** in Cyber Security.
 
 ---
 
-### 🚀 Projects
+## 🔭 Currently Working On
 
-**🔐 Anomaly-Bias Project**  
-A data visualization tool that highlights survivorship bias in cybersecurity threat detection.  
-[Source Code](https://github.com/ghostreindeer09/anomaly-bias-project)
-
-**🎮 Gesture-Controlled Game App**  
-Play online games like Subway Surfers using hand gestures instead of a keyboard!  
-Built with OpenCV, MediaPipe, and PyAutoGUI.
-
-**💬 Real-Time Chat App**  
-A full-stack MERN application enabling users to send and receive messages in real-time.  
-Features include live conversations, user authentication, and socket.io-based chat experience.
-
-**📇 Contact Manager App**  
-A React-based app where users can add, update, delete, and search contacts with live suggestions.  
-Simple, functional, and styled for a smooth UX.
+- 💳 **Full MERN Stack PayTM Clone** — secure payments platform with authentication & MongoDB backend.  
+- 📊 **PostgreSQL Financial Ledger App** — transaction handling & statement generation.  
+- 🔍 **VAPT Scripts Collection** — automating common penetration testing tasks.
 
 ---
 
-### 🧠 Skills
+## 🛠 Tech Stack
 
-- Full-Stack Development  
-- Vulnerability Scanning & Web Assessment  
-- System & Network Security  
-- Real-Time Communication (Socket.io)  
-- UI/UX Design Principles  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgresql,tailwind,git,github" />
+</p>
 
 ---
 
-### 🌱 Currently Working On
+## 📊 GitHub Stats
 
-- A Payments App using the MERN Stack  
-- Vulnerability & Rootkit Lab experiments  
-- Top-down and recursive descent parsers for CD lab
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghostreindeer09&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostreindeer09&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostreindeer09&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 How to Reach Me
+## 🚀 Featured Projects
 
-- 📧 [rishitsharma.official@gmail.com](sharmayaara83@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishit-sharma-048898339/) 
+<p align="center">
+  <a href="https://github.com/ghostreindeer09/clone-paytm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=clone-paytm&theme=tokyonight" /></a>
+  <a href="https://github.com/ghostreindeer09/contact-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=contact-app&theme=tokyonight" /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ghostreindeer09/chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=chat-app&theme=tokyonight" /></a>
+  <a href="https://github.com/ghostreindeer09/anomaly-bias-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=anomaly-bias-project&theme=tokyonight" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ghostreindeer09/hand-gesture-game-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=hand-gesture-game-control&theme=tokyonight" /></a>
+</p>
 
 ---
 
-Thanks for visiting! Don't forget to ⭐ my repositories if you find them interesting!
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishit-sharma-048898339/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:sharmayaara83@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/ghostreindeer09"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghostreindeer09&label=Profile%20views&color=00BFFF&style=flat" alt="profile views" />
+</p>
