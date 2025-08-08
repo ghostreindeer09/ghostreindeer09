@@ -66,6 +66,10 @@
   <a href="https://github.com/ghostreindeer09/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=leetcode&theme=tokyonight" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ghostreindeer09/swiggy-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=swiggy-frontend&theme=tokyonight" /></a>
+</p>
+
 ---
 
 ## 📫 Connect With Me
