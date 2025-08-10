@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostreindeer09&langs_count=5&layout=compact&theme=tokyonight&hide=html,css&custom_title=Most%20Used%20Languages%20(Highlight%20C%2B%2B)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostreindeer09&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20(All%20Detected)" alt="Top Languages" />
 </p>
 
 ---
