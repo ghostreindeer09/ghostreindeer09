@@ -55,19 +55,34 @@
   <a href="https://github.com/ghostreindeer09/clone-paytm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=clone-paytm&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/contact-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=contact-app&theme=tokyonight" /></a>
 </p>
+<p align="center">
+  <em>💳 Secure MERN-based PayTM clone with authentication & payments</em>  
+  <em>📇 Contact management app with React, Node.js & MongoDB</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=chat-app&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/anomaly-bias-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=anomaly-bias-project&theme=tokyonight" /></a>
+</p>
+<p align="center">
+  <em>💬 Real-time chat app with Socket.IO & MongoDB backend</em>  
+  <em>📊 AI/ML-based anomaly detection & bias analysis project</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/hand-gesture-game-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=hand-gesture-game-control&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=leetcode&theme=tokyonight" /></a>
 </p>
+<p align="center">
+  <em>🖐️ Control PC games using hand gestures & computer vision</em>  
+  <em>🧠 Collection of solved LeetCode problems in multiple languages</em>
+</p>
 
 <p align="center">
-  <a href="https://github.com/ghostreindeer09/swiggy-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=swiggy-frontend&theme=tokyonight" /></a>
+  <a href="https://github.com/ghostreindeer09/clone-swiggy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=clone-swiggy&theme=tokyonight" /></a>
+</p>
+<p align="center">
+  <em>🥡 Full-stack Swiggy clone with cart, checkout & authentication</em>
 </p>
 
 ---
