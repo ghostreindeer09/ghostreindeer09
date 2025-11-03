@@ -2,16 +2,16 @@
 <h3 align="center">Cybersecurity Enthusiast | Full Stack MERN Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00BFFF&center=true&vCenter=true&lines=B.Tech+Cyber+Security+Student;Building+Secure+Apps;VAPT+and+Ethical+Hacking;Exploring+AI,+ML+and+Data+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00BFFF&center=true&vCenter=true&lines=B.Tech+Cyber+Security+Student;Building+Secure+Apps;VAPT+and+Ethical+Hacking;Exploring+AI+and+ML" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Cyber Security student** passionate about building secure, scalable, and intelligent systems.  
-- 🛠 Skilled in **VAPT, Ethical Hacking, Full-Stack Development, and Applied Machine Learning**.  
-- 🚀 Built projects like **PayTM Clone**, **EcoMove**, **Travel Buddy**, and **NetSage-ML**.  
+- 🎓 **B.Tech Cyber Security student** passionate about building secure, scalable apps.  
+- 🛠 Skilled in **VAPT, Ethical Hacking, and MERN Stack Development**.  
+- 🚀 Built projects like **PayTM Clone**, **EcoMove**, **Travel Buddy App**, and **NetSage-ML**.  
 - 🏆 Hackathon participant — *HackWave* & *Hash-It-Out*.  
 - 💼 Completed **Virtual Internship @ Palo Alto Networks** in Cyber Security.
 
@@ -29,18 +29,8 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgresql,tailwind,git,github,c++" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,postgresql,tailwind,git,github" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,tensorflow,pytorch,sklearn,linux,bash,docker" />
-</p>
-
-**Languages:**  
-`C++` · `Python` · `JavaScript` · `Java` · `SQL` · `Bash`
-
-**Frameworks & Tools:**  
-`React` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `TensorFlow` · `PyTorch` · `scikit-learn` · `Apache Kafka` · `Docker` · `TailwindCSS` · `Git`
 
 ---
 
@@ -55,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostreindeer09&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostreindeer09&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20(All%20Detected)" alt="Top Languages" />
 </p>
 
 ---
@@ -95,7 +85,7 @@
 </p>
 <p align="center">
   <em>🥡 Full-stack Swiggy clone with cart, checkout & authentication</em>  
-  <em>🧠 <b>NetSage-ML</b> — ML-powered intrusion detection system for segmentation attacks, leveraging Apache Kafka for streaming & MongoDB for secure packet storage</em>
+  <em>🧠 <b>NetSage-ML</b> — Machine learning–powered intrusion detection system for detecting segmentation attacks, leveraging Apache Kafka for data streaming and MongoDB for secure packet storage</em>
 </p>
 
 ---
