@@ -56,37 +56,22 @@
   <a href="https://github.com/ghostreindeer09/lawgpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=lawgpt&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/contact-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=contact-app&theme=tokyonight" /></a>
 </p>
-<p align="center">
-  <em>⚖️ LawGPT — AI-powered legal assistant for case research and document drafting</em>  
-  <em>📇 Contact management app with React, Node.js & MongoDB</em>
-</p>
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=chat-app&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/anomaly-bias-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=anomaly-bias-project&theme=tokyonight" /></a>
-</p>
-<p align="center">
-  <em>💬 Real-time chat app with Socket.IO & MongoDB backend</em>  
-  <em>📊 AI/ML-based anomaly detection & bias analysis project</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/hand-gesture-game-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=hand-gesture-game-control&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=leetcode&theme=tokyonight" /></a>
 </p>
-<p align="center">
-  <em>🖐️ Control PC games using hand gestures & computer vision</em>  
-  <em>🧠 Collection of solved LeetCode problems in multiple languages</em>
-</p>
 
 <p align="center">
   <a href="https://github.com/ghostreindeer09/clone-swiggy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=clone-swiggy&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/netsage-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=netsage-ml&theme=tokyonight" /></a>
 </p>
-<p align="center">
-  <em>🥡 Full-stack Swiggy clone with cart, checkout & authentication</em>  
-  <em>🧠 <b>NetSage-ML</b> — Machine learning–powered intrusion detection system for detecting segmentation attacks, leveraging Apache Kafka for data streaming and MongoDB for secure packet storage</em>
-</p>
+
 
 
 
