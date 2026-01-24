@@ -53,11 +53,11 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ghostreindeer09/clone-paytm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=clone-paytm&theme=tokyonight" /></a>
+  <a href="https://github.com/ghostreindeer09/lawgpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=lawgpt&theme=tokyonight" /></a>
   <a href="https://github.com/ghostreindeer09/contact-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghostreindeer09&repo=contact-app&theme=tokyonight" /></a>
 </p>
 <p align="center">
-  <em>💳 Secure MERN-based PayTM clone with authentication & payments</em>  
+  <em>⚖️ LawGPT — AI-powered legal assistant for case research and document drafting</em>  
   <em>📇 Contact management app with React, Node.js & MongoDB</em>
 </p>
 
@@ -87,6 +87,9 @@
   <em>🥡 Full-stack Swiggy clone with cart, checkout & authentication</em>  
   <em>🧠 <b>NetSage-ML</b> — Machine learning–powered intrusion detection system for detecting segmentation attacks, leveraging Apache Kafka for data streaming and MongoDB for secure packet storage</em>
 </p>
+
+
+
 
 ---
 
