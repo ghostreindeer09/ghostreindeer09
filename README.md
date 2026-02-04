@@ -30,6 +30,9 @@ B.Tech Cyber Security Student &nbsp;|&nbsp; VAPT & Ethical Hacking &nbsp;|&nbsp;
 - **Anomaly Bias Project**  
   Anomaly detection and bias analysis in datasets using Python and ML.
 
+- **Semantic Log Detector**  
+  ML-based tool for detecting anomalies and suspicious patterns in system logs for enhanced cybersecurity.
+
 ### Full Stack & Web Development
 - **Real-Time Chat App**  
   Full-stack chat app with real-time messaging, authentication, and responsive UI.
