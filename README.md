@@ -14,7 +14,9 @@ B.Tech Cyber Security Student &nbsp;|&nbsp; VAPT & Ethical Hacking &nbsp;|&nbsp;
 - **AI/ML:** Machine Learning for Threat & Anomaly Detection
 
 ---
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=siktymt34o37liovhk4rsn5zf&unique={true|1|on|yes})
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=siktymt34o37liovhk4rsn5zf
+
+&count=1)](https://open.spotify.com/user/siktymt34o37liovhk4rsn5zf)
 
 ## Featured Projects
 
