@@ -16,7 +16,7 @@ B.Tech Cyber Security Student &nbsp;|&nbsp; VAPT & Ethical Hacking &nbsp;|&nbsp;
 ---
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=siktymt34o37liovhk4rsn5zf&cover_image=true&theme=compact&background_color=0d1117&interchange=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=siktymt34o37liovhk4rsn5zf&cover_image=true&theme=bar&background_color=0d1117&bar_color=1db954&play_color=1db954">
   </a>
 </p>
 
